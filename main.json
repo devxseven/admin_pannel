@@ -18,15 +18,5 @@
     "home_img": "https://mygoaltv.xyz/team/Doncaster-Rovers.gif",
     "away_name": "Crystal Palace",
     "away_img": "https://mygoaltv.xyz/team/Crystal-Palace.png"
-  },
-  {
-    "id": "03",
-    "league": "La Liga",
-    "time": "02:30 AM",
-    "date": "Feb 11",
-    "home_name": "Mallorca",
-    "home_img": "https://mygoaltv.xyz/team/Mallorca.gif",
-    "away_name": "Osasuna",
-    "away_img": "https://mygoaltv.xyz/team/osasuna.png"
   }
 ]
