@@ -1,50 +1,60 @@
-[
-  {
-    "name": "V HD",
-    "url": ""
-  },
-  {
-    "name": "V SD",
-    "url": ""
-  },
-  {
-    "name": "V HD 1",
-    "url": ""
-  },
-  {
-    "name": "V SD 1",
-    "url": ""
-  },
-  {
-    "name": "V HD 2",
-    "url": ""
-  },
-  {
-    "name": "V SD 2",
-    "url": ""
-  },
-  {
-    "name": "EN HD",
-    "url": ""
-  },
-  {
-    "name": "EN HD 1",
-    "url": ""
-  },
-  {
-    "name": "EN SD",
-    "url": ""
-  },
-  {
-    "name": "CN HD",
-    "url": ""
-  },
-  {
-    "name": "C HD",
-    "url": ""
-  },
-  {
-    "name": "C SD",
-    "url": ""
-  }
-]
+{
+  "id": "01",
+  "league": "Bundesliga",
+  "time": "02:00 AM",
+  "date": "Feb 15",
+  "home_name": "Augsburg",
+  "home_img": "https://mygoaltv.xyz/team/augsburg.png",
+  "away_name": "RB Leipzig",
+  "away_img": "https://mygoaltv.xyz/team/RB_Leipzig.png",
+  "links": [
+    {
+      "name": "V HD",
+      "url": ""
+    },
+    {
+      "name": "V SD",
+      "url": ""
+    },
+    {
+      "name": "V HD 1",
+      "url": ""
+    },
+    {
+      "name": "V SD 1",
+      "url": ""
+    },
+    {
+      "name": "V HD 2",
+      "url": ""
+    },
+    {
+      "name": "V SD 2",
+      "url": ""
+    },
+    {
+      "name": "EN HD",
+      "url": ""
+    },
+    {
+      "name": "EN HD 1",
+      "url": ""
+    },
+    {
+      "name": "EN SD",
+      "url": ""
+    },
+    {
+      "name": "CN HD",
+      "url": ""
+    },
+    {
+      "name": "C HD",
+      "url": ""
+    },
+    {
+      "name": "C SD",
+      "url": ""
+    }
+  ]
+}
