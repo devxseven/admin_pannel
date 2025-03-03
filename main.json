@@ -1,15 +1,5 @@
 [
   {
-    "id": "01",
-    "league": "Bundesliga",
-    "time": "02:00 AM",
-    "date": "Feb 15",
-    "home_name": "Augsburg",
-    "home_img": "https://mygoaltv.xyz/team/augsburg.png",
-    "away_name": "RB Leipzig",
-    "away_img": "https://mygoaltv.xyz/team/RB_Leipzig.png"
-  },
-  {
     "id": "02",
     "league": "Ligue 1",
     "time": "02:15 AM",
