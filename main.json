@@ -1,5 +1,15 @@
 [
   {
+    "id": "01",
+    "league": "Bundesliga",
+    "time": "02:00 AM",
+    "date": "Feb 15",
+    "home_name": "Augsburg",
+    "home_img": "https://mygoaltv.xyz/team/augsburg.png",
+    "away_name": "RB Leipzig",
+    "away_img": "https://mygoaltv.xyz/team/RB_Leipzig.png"
+  },
+  {
     "id": "02",
     "league": "Ligue 1",
     "time": "02:15 AM",
@@ -8,35 +18,5 @@
     "home_img": "https://mygoaltv.xyz/team/Brest.gif",
     "away_name": "Auxerre",
     "away_img": "https://mygoaltv.xyz/team/Auxerre.gif"
-  },
-  {
-    "id": "03",
-    "league": "Serie A",
-    "time": "02:15 AM",
-    "date": "Feb 15",
-    "home_name": "Bologna",
-    "home_img": "https://mygoaltv.xyz/team/Bologna.png",
-    "away_name": "Torino",
-    "away_img": "https://mygoaltv.xyz/team/Torino.png"
-  },
-  {
-    "id": "04",
-    "league": "La Liga",
-    "time": "02:30 AM",
-    "date": "Feb 15",
-    "home_name": "Girona",
-    "home_img": "https://mygoaltv.xyz/team/Girona.png",
-    "away_name": "Getafe",
-    "away_img": "https://mygoaltv.xyz/team/Getafe.png"
-  },
-  {
-    "id": "05",
-    "league": "Premier League",
-    "time": "02:30 AM",
-    "date": "Feb 15",
-    "home_name": "Brighton",
-    "home_img": "https://mygoaltv.xyz/team/Brighton.gif",
-    "away_name": "Chelsea",
-    "away_img": "https://mygoaltv.xyz/team/chelsea.png"
   }
 ]
